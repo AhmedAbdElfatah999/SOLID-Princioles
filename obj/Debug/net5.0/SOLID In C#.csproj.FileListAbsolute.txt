@@ -1,0 +1,16 @@
+E:\New Courses\Full Stack .Net Development\Skills Road Map\Design Concepts And Principles\SOLID In C#\bin\Debug\net5.0\SOLID In C#.exe
+E:\New Courses\Full Stack .Net Development\Skills Road Map\Design Concepts And Principles\SOLID In C#\bin\Debug\net5.0\SOLID In C#.deps.json
+E:\New Courses\Full Stack .Net Development\Skills Road Map\Design Concepts And Principles\SOLID In C#\bin\Debug\net5.0\SOLID In C#.runtimeconfig.json
+E:\New Courses\Full Stack .Net Development\Skills Road Map\Design Concepts And Principles\SOLID In C#\bin\Debug\net5.0\SOLID In C#.runtimeconfig.dev.json
+E:\New Courses\Full Stack .Net Development\Skills Road Map\Design Concepts And Principles\SOLID In C#\bin\Debug\net5.0\SOLID In C#.dll
+E:\New Courses\Full Stack .Net Development\Skills Road Map\Design Concepts And Principles\SOLID In C#\bin\Debug\net5.0\ref\SOLID In C#.dll
+E:\New Courses\Full Stack .Net Development\Skills Road Map\Design Concepts And Principles\SOLID In C#\bin\Debug\net5.0\SOLID In C#.pdb
+E:\New Courses\Full Stack .Net Development\Skills Road Map\Design Concepts And Principles\SOLID In C#\obj\Debug\net5.0\SOLID In C#.csprojAssemblyReference.cache
+E:\New Courses\Full Stack .Net Development\Skills Road Map\Design Concepts And Principles\SOLID In C#\obj\Debug\net5.0\SOLID In C#.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Courses\Full Stack .Net Development\Skills Road Map\Design Concepts And Principles\SOLID In C#\obj\Debug\net5.0\SOLID In C#.AssemblyInfoInputs.cache
+E:\New Courses\Full Stack .Net Development\Skills Road Map\Design Concepts And Principles\SOLID In C#\obj\Debug\net5.0\SOLID In C#.AssemblyInfo.cs
+E:\New Courses\Full Stack .Net Development\Skills Road Map\Design Concepts And Principles\SOLID In C#\obj\Debug\net5.0\SOLID In C#.csproj.CoreCompileInputs.cache
+E:\New Courses\Full Stack .Net Development\Skills Road Map\Design Concepts And Principles\SOLID In C#\obj\Debug\net5.0\SOLID In C#.dll
+E:\New Courses\Full Stack .Net Development\Skills Road Map\Design Concepts And Principles\SOLID In C#\obj\Debug\net5.0\ref\SOLID In C#.dll
+E:\New Courses\Full Stack .Net Development\Skills Road Map\Design Concepts And Principles\SOLID In C#\obj\Debug\net5.0\SOLID In C#.pdb
+E:\New Courses\Full Stack .Net Development\Skills Road Map\Design Concepts And Principles\SOLID In C#\obj\Debug\net5.0\SOLID In C#.genruntimeconfig.cache
